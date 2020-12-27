@@ -1,11 +1,13 @@
 # Todo Application
 
-#### Backend -
-##### Python (Flask)
-####UI - 
-#####React with Redux
-####Database - 
-#####Postgresql
+**Backend **- 
+Python (Flask)
+
+**UI** - 
+React with Redux
+
+**Database** - 
+Postgresql
 
 ## Live DEMO:
 #### https://todoreactappgrv.netlify.app/
