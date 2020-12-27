@@ -1,6 +1,6 @@
 # Todo Application
 
-**Backend **- 
+**Backend**- 
 Python (Flask)
 
 **UI** - 
