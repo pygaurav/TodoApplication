@@ -1,0 +1,36 @@
+.clsTodoComp {
+  text-align: center;
+  margin-top: 20px;
+}
+.menuList {
+  
+}
+.menuList li {
+  border-bottom: 1px solid #f2f2f2;
+  list-style: none;
+  display: flex;
+}
+.clsRight {
+  margin-left: auto;
+  cursor: pointer;
+  position: relative;
+}
+.cls-icon {
+  cursor: pointer;
+}
+.clsWidthInputTodo {
+  width: 80%;
+}
+.margTodoApp {
+  margin-top: 40px;
+}
+.iconAbs{
+font-size: 50px;
+position: fixed;
+bottom: 0;
+z-index: 100;
+}
+.cls-dialog .MuiDialog-paper,.cls-dialog .MuiInput-root {
+  width:100%;
+}
+
